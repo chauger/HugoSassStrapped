@@ -5,6 +5,7 @@
 
 # production
 /public
+/resources
 
 # misc
 .vscode
