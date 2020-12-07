@@ -1,0 +1,18 @@
+{
+  "name": "hugo_scss_autoprefixer_and_bootstrap",
+  "version": "1.0.0",
+  "description": "Simple Hugo theme with SCSS Bootstrap and Autoprefixer",
+  "scripts": {
+    "start": "hugo server",
+    "build": "hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.0.4",
+    "bootstrap": "^4.5.3",
+    "postcss-cli": "^8.3.0",
+    "standard": "^16.0.3"
+  }
+}

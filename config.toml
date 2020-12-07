@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "HH Sterling"
+theme = "blank-starter"
+relativeURLs = true
+
+[params]
+  [params.font]
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.blackFriday]
+    fractions = false
+    hrefTargetBlank = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
