@@ -14,5 +14,8 @@
     "bootstrap": "^4.5.3",
     "postcss-cli": "^8.3.0",
     "standard": "^16.0.3"
+  },
+  "devDependencies": {
+    "postcss": "8.2.0"
   }
 }
